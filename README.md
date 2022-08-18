@@ -1,1 +1,1 @@
-# Source files for my icons
+# Source files used somewhere
