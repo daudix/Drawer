@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="Gradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" style="stop-color:#8FF0A4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8FF0A4;stop-opacity:1" />
+    </linearGradient>
+    <filter id="alpha-to-white">
+      <feColorMatrix in="SourceGraphic" type="matrix"
+                     values="0 0 0 0 0
+                             0 0 0 0 0
+                             0 0 0 0 0
+                             0 0 0 0.8 0"/>
+    </filter>
+    <g id="child-svg">
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="io.posidon.Paper-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="28.549436"
+     inkscape:cx="10.227873"
+     inkscape:cy="8.0386876"
+     inkscape:window-width="1503"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs16" />
+  <g
+     id="g1063"
+     transform="translate(-159.98438,-172)">
+    <path
+       id="path1037"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:1.2;paint-order:markers stroke fill;enable-background:new"
+       d="m 165,0 c -1.662,0 -3,1.338 -3,3 v 10 c 0,1.662 1.338,3 3,3 h 6 c 1.662,0 3,-1.338 3,-3 v -2.464844 l -2,2.003906 V 13 c 0,0.554 -0.446,1 -1,1 h -5 V 2 h 5 c 0.554,0 1,0.446 1,1 v 2.46875 l 2,-2.0058594 V 3 c 0,-1.662 -1.338,-3 -3,-3 z m 9.23438,5 c -0.16537,0.007 -0.33072,0.063997 -0.45313,0.1855469 l -5.79687,5.8105471 V 13 h 2.03124 l 5.79883,-5.8105469 c 0.24263,-0.24263 0.21328,-0.7593762 0,-0.9726562 l -1.03125,-1.03125 C 174.65993,5.0622769 174.44699,4.99039 174.23438,5 Z"
+       transform="translate(0,172)" />
+  </g>
+</svg>
+</g>
+  </defs>
+  <rect
+      width="256"
+      height="256"
+      fill="url(#Gradient)"
+      ry="0"
+      x="0"
+      y="0" />
+  <use xlink:href="#child-svg" filter="url(#alpha-to-white)"
+       transform="matrix(8,0,0,8,64,64)" />
+</svg>
