@@ -2,6 +2,6 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Please, if you want to use somthing from it, contact me by using one of those contacts
 
-- E-Mail: ddaudix@gmail.com
+- [Matrix](https://matrix.to/#/@daudix_ufo:matrix.org)
 
-- Matrix: @daudix_ufo:matrix.org
+- [Email](mailto:ddaudix@gmail.com)
