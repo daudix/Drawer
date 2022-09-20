@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="128px" viewBox="0 0 128 128" width="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="7.9997105" x2="119.9997105" y1="116.000067" y2="116.000067">
+        <stop offset="0" stop-color="#a51d2d"/>
+        <stop offset="0.0357143" stop-color="#ed333b"/>
+        <stop offset="0.0713653" stop-color="#c01c28"/>
+        <stop offset="0.928571" stop-color="#c01c28"/>
+        <stop offset="0.964286" stop-color="#ed333b"/>
+        <stop offset="1" stop-color="#a51d2d"/>
+    </linearGradient>
+    <path d="m 16 40 h 96 c 4.417969 0 8 3.582031 8 8 v 60 c 0 4.417969 -3.582031 8 -8 8 h -96 c -4.417969 0 -8 -3.582031 -8 -8 v -60 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="url(#a)"/>
+    <path d="m 16 28 h 96 c 4.417969 0 8 3.582031 8 8 v 68 c 0 4.417969 -3.582031 8 -8 8 h -96 c -4.417969 0 -8 -3.582031 -8 -8 v -68 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="#e01b24"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.2220092116">
+        <path d="m 49.1133012498 87.99231356303 l 29.77345876785 -17.19141912952" stroke="#77767b"/>
+        <path d="m 49.1133012498 53.60947597416 l 29.77345876785 17.19141845935" stroke="#77767b"/>
+        <path d="m 49.11330123929 53.60947597416 v 34.38283758886" stroke="#77767b"/>
+        <path d="m 49.11330123929 86.3907513575 l 29.77345876785 -17.19141912952" stroke="#c0bfbc"/>
+        <path d="m 49.11330123929 52.00791376864 l 29.77345876785 17.19141845935" stroke="#deddda"/>
+        <path d="m 49.11330123929 52.00791376864 v 34.38283758886" stroke="#ffffff"/>
+    </g>
+</svg>
