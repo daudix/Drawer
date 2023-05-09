@@ -1,4 +1,4 @@
-Experimenting with dithering, these are some of the archive photos with this effect
+Experiments with dithering, these are some of the archive photos with this effect
 
 ImageMagick command: `convert image-* -resize 840x840 -strip -colors 4 -ordered-dither o8x8 image-dithered-%01d.png`
 
