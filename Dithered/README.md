@@ -4,4 +4,4 @@ ImageMagick command: `convert image-* -resize 840x840 -strip -colors 4 -ordered-
 
 Add `-rotate <degree>` before `image-dithered-%01d.png` to set the rotation (if needed)
 
-Original inspiration and the command are from this Tobias Bernard's [Mastodon post](https://mstdn.social/@tbernard@mastodon.social/109675668858449961)
+Original inspiration and the command are from this Tobias Bernard's [Mastodon post](https://mastodon.social/@tbernard/109675668676999287)
