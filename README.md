@@ -1,3 +1,6 @@
+> **Warning**
+> This repository has been moved to [Codeberg](https://codeberg.org/daudix-UFO/Drawer), all future work will continue there.
+
 # Source files of my various things
 
 This is not all my works, only a small part that I liked to share :D
